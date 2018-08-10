@@ -1,0 +1,21 @@
+body {
+    background-image: url("../images/Trainbackground.png")
+  }
+  
+  #heading {
+    font-family: sans-serif;
+    font-weight: bold;
+  }
+  
+  #subHeading {
+    font-family: Courier New, Courier, monospace;
+    font-style: italic;
+  }
+  
+  .panel-title {
+    font-weight: bold;
+  }
+  
+  th {
+    font-weight: bold;
+  }
